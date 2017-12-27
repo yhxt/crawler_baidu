@@ -11,4 +11,4 @@
 		3.根据用户输入的起始页和结束页进行爬取
 		4.get_html函数用老爬取html内容
 		5.save_html函数进行爬取数据的保存
-		6.load_crawler函数进行完整带页码的url,并爬取保存
+		6.load_crawler函数进行完整带页码的url,并爬取保存.
