@@ -1,5 +1,7 @@
 # crawler_baidu
 
+python版本号：2.7.13
+
 此爬虫项目是利用python的urllib和urllib2来实现的。
 
 爬取思路：
